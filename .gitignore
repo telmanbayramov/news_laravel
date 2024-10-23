@@ -20,3 +20,7 @@ yarn-error.log
 /.idea
 /.vscode
 /.zed
+vendor/
+node_modules/
+.env
+*.log
